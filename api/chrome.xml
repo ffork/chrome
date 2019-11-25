@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2019-11-24 15:41:49</time>
+  <time>2019-11-25 15:41:44</time>
   <stable32>
     <version>78.0.3904.108</version>
     <download>
@@ -56,21 +56,21 @@
     <size>58142976</size>
   </dev64>
   <canary32>
-    <version>80.0.3976.0</version>
+    <version>80.0.3977.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AMw2147U3jQW75J4bpR1Fdc_80.0.3976.0/80.0.3976.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AMw2147U3jQW75J4bpR1Fdc_80.0.3976.0/80.0.3976.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AIE5eYhzF6kPEiLe8j-q12s_80.0.3977.0/80.0.3977.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AIE5eYhzF6kPEiLe8j-q12s_80.0.3977.0/80.0.3977.0_chrome_installer.exe</url>
     </download>
-    <sha256>08a3abaabd1d388f64d92205c16cb3a23587dde8cad46a0696a56de908f957d4</sha256>
-    <size>57186560</size>
+    <sha256>7c266e84a3d5a568148e4eb95aaad52cedd50056c6353c5a68aaacfc0d3b9b2c</sha256>
+    <size>57194752</size>
   </canary32>
   <canary64>
-    <version>80.0.3976.0</version>
+    <version>80.0.3977.0</version>
     <download>
-      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AINoKTdmvA8BbFlRcLpc3Sc_80.0.3976.0/80.0.3976.0_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/AINoKTdmvA8BbFlRcLpc3Sc_80.0.3976.0/80.0.3976.0_chrome_installer.exe</url>
+      <url>https://redirector.gvt1.com/edgedl/release2/chrome/AImiL9s71SDxDzUaA6rzcm4_80.0.3977.0/80.0.3977.0_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/AImiL9s71SDxDzUaA6rzcm4_80.0.3977.0/80.0.3977.0_chrome_installer.exe</url>
     </download>
-    <sha256>fe77979acc2bee4054f227424f9f8f339dc84aced9ae077ea515a36e6368be50</sha256>
-    <size>58277120</size>
+    <sha256>4a70cd907709bd864b8e443e4c148a0bdbf2286a7495a69b7e3a22af7e7ee6ae</sha256>
+    <size>58218240</size>
   </canary64>
 </chromechecker>
